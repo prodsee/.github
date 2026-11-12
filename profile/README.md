@@ -44,7 +44,7 @@ The planner is the foundation. We listen to our partners and keep extending the 
 
 | Planned | What it brings | When |
 | --- | --- | --- |
-| **Routings and operations** | Designing the technological process: routings, operations and process sheets that describe how each product is made, right next to its BOM. | Q2 2027 |
+| **Routings and operations** | Designing the technological process: routings, operations and process sheets that describe how each product is made, right next to its BOM. | Q2&nbsp;2027 |
 | **Work-time reporting** | Foremen and operators report time on operations, so the plan meets what really happens on the shop floor. | 2027+ |
 | **Integrations and API** | Shop-floor terminals, API access, webhooks and data export, for connecting Prodsee to the rest of your tools. | 2027+ |
 | **Certifications** | Independent confirmation that your plant's data is safe: a GDPR compliance audit, ISO and SOC 2. | 2027+ |
@@ -78,7 +78,7 @@ Prodsee is a commercial product, so its source code is not here. This page is ou
 
 Call or write. We are happy to talk about your production and about how Prodsee can be useful.
 
-- **Phone:** [+48 882 100 420](tel:+48882100420), Monday to Friday, 08:00–16:00 (Polish time). Karol Hinz, the founder, picks up.
+- **Phone:** +48 882 100 420, Monday to Friday, 08:00–16:00 (Polish time). Karol Hinz, the founder, picks up.
 - **E-mail:** [kontakt@prodsee.com](mailto:kontakt@prodsee.com). We answer within one working day.
 
 A first call takes 20 minutes at most. No obligations, no sales pressure, no forms and no mailing lists.
