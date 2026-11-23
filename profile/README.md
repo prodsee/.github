@@ -78,7 +78,7 @@ Prodsee is a commercial product, so its source code is not here. This page is ou
 
 Call or write. We are happy to talk about your production and about how Prodsee can be useful.
 
-- **Phone:** +48 882 100 420, Monday to Friday, 08:00–16:00 (Polish time). Karol Hinz, the founder, picks up.
+- **Phone:** +48 882 100 420, Monday to Friday, 08:00–16:00 (Polish time). Karol Hinz, founder of Prodsee, picks up.
 - **E-mail:** [kontakt@prodsee.com](mailto:kontakt@prodsee.com). We answer within one working day.
 
 A first call takes 20 minutes at most. No obligations, no sales pressure, no forms and no mailing lists.
